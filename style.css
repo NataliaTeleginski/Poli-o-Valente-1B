@@ -1,0 +1,63 @@
+body{
+	background-color: #E8CDBE;
+}
+
+.tudo {
+	margin: 100px;
+}
+.bannerbatata{
+	text-align: center;
+}
+
+#borda{
+	margin-top: 50px;
+	margin-left: 250px;
+	margin-right: 250px;
+	border-style: double;
+	border-color: #D6B09B;
+	border-width: 5px;
+}
+
+h1{
+	font-size: 42px;
+	text-align: center;
+}
+
+.centro{
+	text-align: center;
+}
+
+.batata2{
+	font-size: 36px;
+}
+
+.batata3{
+	font-size: 32px;
+}
+
+.batata3cor {
+	color:  #CD5C5C;
+}
+
+#dicas {
+	text-align: center;
+}
+
+p {
+	font-size: 24px;
+}
+
+ul li{
+	font-size: 24px;
+}
+
+hr {
+	
+	font-size: 5px;
+	width: 70%;
+	color: #D6B09B;
+}
+
+.pdireita {
+	text-align: right;
+}
